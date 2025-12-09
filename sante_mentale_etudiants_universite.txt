@@ -64,9 +64,10 @@ Intervention :
 Investir dans la santé mentale des étudiants améliore non seulement leur bien-être, mais aussi la réussite académique et la qualité de vie sur le campus. Une stratégie intégrée (prévention, dépistage, intervention et suivi) est recommandée, accompagnée d’un engagement institutionnel clair et de ressources adaptées.
 
 Références  :
-1. Kroenke K., Spitzer R.L., Williams J.B.W. (2001). The PHQ-9: validity of a brief depression severity measure. Journal of General Internal Medicine.
-2. Spitzer R.L., Kroenke K., Williams J.B.W., Löwe B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Archives of Internal Medicine.
-3. Salmela-Aro, K. et al. (2009). School burnout inventory (SBI) among adolescents.
-4. Stallman, H. M. (2010). Psychological distress in university students: A comparison with general population data. Australian Psychologist.
-5. Eisenberg, D., Hunt, J., Speer, N. (2013). Mental health in American colleges and universities: variation across student subgroups and across campuses.
-
+AKDEMİR, M., AKTEKİN, M. R., ŞENOL, Y. Y., SÖNMEZ, Y., DOĞANAVŞARGİL BAYSAL, Ö., MAMAKLI, S., KÖSE, F., BOZBAY, D. S., ERDOĞAN, K., & GÜRPINAR, E. (2022). Depression and Psychological Distress in Medical Students, A Prospective Study. Archives of Neuropsychiatry, 59(2), 116‑122. https://doi.org/10.29399/npa.27799
+Ba, E. H. M., , dhiou, Seck, S., Camara, M., ,  o-G., Houenassou, N., J. A., Tine, G., Fall, K., Ndiaye, M., Ndiaye, M., & Sylla, A. (2024). Epidemiological Aspects of Burnout among Physicians at the University Hospital Centers (CHU) of Dakar, Senegal. Open Journal of Psychiatry, 14(6), Article 6. https://doi.org/10.4236/ojpsych.2024.146033
+Baik, C., Larcombe, W., & Brooker, A. (2019). How universities can enhance student mental wellbeing: The student perspective. Higher Education Research & Development, 38(4), 674‑687. https://doi.org/10.1080/07294360.2019.1576596
+Barker, E. T., Howard, A. L., Villemaire-Krajden, R., & Galambos, N. L. (2018). The Rise and Fall of Depressive Symptoms and Academic Stress in Two Samples of University Students. Journal of Youth and Adolescence, 47(6), 1252‑1266. https://doi.org/10.1007/s10964-018-0822-9
+Barrimi, M., Maazouzi, M., Malakt, S., Lazaar, S., & Khaoulani, H. (2020). Les idées et les tentatives de suicide chez les étudiants en médecine au Maroc : Résultats d’une étude multicentrique. Annales Médico-psychologiques, revue psychiatrique, 178(5), 481‑486. https://doi.org/10.1016/j.amp.2018.11.012
+Böke, B. N., Mills, D. J., Mettler, J., & Heath, N. L. (2019). Stress and Coping Patterns of University Students. Journal of College Student Development, 60(1), 85‑103. https://doi.org/10.1353/csd.2019.0005
+Campbell, F., Blank, L., Cantrell, A., Baxter, S., Blackmore, C., Dixon, J., & Goyder, E. (2022). Factors that influence mental health of university and college students in the UK : A systematic review. BMC Public Health, 22(1), 1778. https://doi.org/10.1186/s12889-022-13943-x
