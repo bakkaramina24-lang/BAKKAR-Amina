@@ -47,20 +47,33 @@ Intervention :
 - Référencement vers des soins spécialisés pour cas modérés à sévères.
 - Protocoles d'urgence en cas de risque suicidaire.
 
-6. Recommandations institutionnelles pratiques
+6. Résultats attendus
+
+Les résultats attendus de cette étude sont variés et visent à offrir une compréhension scientifiques approfondie concernant des troubles de la santé mentale des étudiants dans les domaines scientifiques et médical au Maroc et des stratégies d’adaptation, en utilisant des cadres épidémiologiques et psychosociaux bien structurés. Les objectifs sont listés ci-dessous :
+
+Établissement de la prévalence des troubles psychologiques
+Évaluation précise de la prévalence du stress, de l'anxiété et de la dépression au sein de la population étudiante définie.
+Reconnaissance de la stratification des profils de risque par sexe, année d'étude, programme et autres variables sociodémographiques.
+Détermination des facteurs de risque et de protection
+Examen des déterminants individuels, académiques, sociaux et environnementaux associés à la détérioration de la santé mentale.
+Identification des variables qui protègent et favorisent le bien-être.
+Caractérisation des stratégies d'adaptation
+Identification et description des mécanismes d'adaptation que les étudiants utilisent le plus fréquemment face aux défis académiques et personnels. 
+
+7. Recommandations institutionnelles pratiques
 - Mettre en place une cellule de santé mentale dédiée, avec psychologues cliniciens ou conseillers.
 - Offrir des consultations gratuites ou à tarif réduit pour les étudiants.
 - Déployer des ressources digitales (self-help, screening en ligne, lignes d’écoute).
 - Former le personnel pédagogique à repérer les signaux de détresse et à orienter les étudiants.
 - Favoriser la flexibilité académique (aménagements, possibilités de report d’examens).
 
-7. Exemples d'actions mesurables (indicateurs)
+8. Exemples d'actions mesurables (indicateurs)
 - Pourcentage d’étudiants ayant utilisé les services de santé mentale par an.
 - Nombre d’ateliers « gestion du stress » organisés et taux de participation.
 - Scores moyens PHQ-9 / GAD-7 avant et après interventions.
 - Taux de rétention académique des étudiants ayant bénéficié d’un accompagnement.
 
-8. Conclusion
+9. Conclusion
 Investir dans la santé mentale des étudiants améliore non seulement leur bien-être, mais aussi la réussite académique et la qualité de vie sur le campus. Une stratégie intégrée (prévention, dépistage, intervention et suivi) est recommandée, accompagnée d’un engagement institutionnel clair et de ressources adaptées.
 
 Références  :
